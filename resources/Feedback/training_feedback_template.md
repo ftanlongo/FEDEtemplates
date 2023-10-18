@@ -46,3 +46,7 @@ In your opinion
 - the most useful part of the training is [free text]
 - the least useful part of the training is [free text]
 - the training could have been improved by [free text]
+
+
+## Add your comments
+[free text]
